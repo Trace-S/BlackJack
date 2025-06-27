@@ -1,0 +1,48 @@
+/* ai assisted with the stlye, simular to how style50 works */
+body {
+    background-color: #016134;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+h1, h2 {
+    margin: 10px 0;
+}
+
+#dealer-cards, #player-cards {
+    margin: 10px auto;
+    padding: 10px;
+}
+
+img {
+    width: 325px;
+    margin: 5px;
+}
+
+button {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px 5px;
+    cursor: pointer;
+    border: none;
+    background-color: white;
+    color: black;
+}
+
+#game-message {
+    font-size: 24px;
+    margin-top: 20px;
+}
+.gametitle {
+    font-size: 45px;
+}
+.resetlink{
+    display: none;
+    color: white;
+    font-size: 18px;
+    margin-top: 10px;
+    text-decoration: underline;
+    cursor: pointer;
+}
