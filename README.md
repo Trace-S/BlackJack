@@ -7,12 +7,19 @@ My website is a simple version of the card game Black Jack. The game's rules are
 Here is a link to a tutorial video --> https://youtu.be/UVV6ZKF14DM
 
 The blackJack Directory consist of 5 main files all crucial to the website,
+
 Index.html --> Starting webpage,
+
 game.html --> The main game webpage,
+
 game.js --> All the Java script code for the game,
+
 script.js --> Manages start button on index.html,
+
 styles.css --> Adds styles to all text within the website
 
 Credit
+
 Chat GPT --> helped with majority of java script game logic, as well as style checked the entire directory,
+
 Bro Code --> Very useful javascript refresher tutorial, https://www.youtube.com/watch?v=Ihy0QziLDf0
