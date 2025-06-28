@@ -5,6 +5,7 @@ BlackJack is a website HTML game, what game? its Black Jack (incase you didnt kn
 My website is a simple version of the card game Black Jack. The game's rules are simple, you are given 2 cards the dealer is given one. Your goal is to reach a total value of 21 or as close as possible, but be careful if you go over 21 you automatically lose. Decide whether to hit (get another card) or stand (keep your current cards). Once you click one of these buttons your fate is sealed, the dealer will then draw his cards and depending on who has the greater value while staying within the constraints of 21 will win. Once the game is finished you can press the Restart link to play again.
 
 Here is a link to a tutorial video --> [https://youtu.be/UVV6ZKF14DM](https://youtu.be/nxcOneiLQNE)
+I apologize for the mic quality.
 
 The blackJack Directory consist of 5 main files all crucial to the website,
 
